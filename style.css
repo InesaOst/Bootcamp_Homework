@@ -1,8 +1,14 @@
-<style>
-        div.a {
-            text-align: center;
-        }
-        div.b {
-            text-align: center;
-        }
-    </style>
+
+h1.a {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%; 
+}
+footer.b {
+    text-align: center;
+    margin: auto;
+}
+
+i {
+    text-align: center;
+}
